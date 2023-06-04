@@ -1,5 +1,5 @@
-import programm
+import app
 
 
 if __name__ == '__main__':
-    programm.run()
+    app.run()
