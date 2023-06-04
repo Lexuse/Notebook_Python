@@ -77,3 +77,4 @@ def get_number():
             return get_choice
         else:
             print(Fore.RED + 'Введите целое положительное число!' + Style.RESET_ALL)
+
