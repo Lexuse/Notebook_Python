@@ -50,3 +50,4 @@ class Controller(object):
         else:
             self.view.display_note_id_not_exist(search_id)
             return False
+
